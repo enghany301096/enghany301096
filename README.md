@@ -9,4 +9,4 @@
 enghany301096/enghany301096 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[hanynady-cv_2023.pdf](https://github.com/user-attachments/files/16749947/hanynady-cv_2023.pdf)
+- my cv: [hanynady-cv_2023.pdf](https://github.com/user-attachments/files/16749947/hanynady-cv_2023.pdf)
