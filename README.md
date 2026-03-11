@@ -1,12 +1,57 @@
-- 👋 Hi, I’m @enghany301096 follow me on /https://www.linkedin.com/in/hany-nady-582a84225/
-- 👀 I’m interested in development 
-- 🌱 I’m currently learning flutter,dart and laravel 
-- 💞️ I’m looking to collaborate on developments on google
-- 📫 How to reach me on hanynady553@gmail.com /https://www.linkedin.com/in/hany-nady-582a84225/ 
-- MySite: https://hany-hf-web.web.app/
+# 👋 Hi, I'm Hany Nady
 
-<!---
-enghany301096/enghany301096 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-- my cv: [hanynady-cv_2023.pdf](https://github.com/user-attachments/files/16749947/hanynady-cv_2023.pdf)
+💻 **Software Developer | Flutter & Laravel Developer**
+
+Welcome to my GitHub profile!  
+I’m passionate about building modern applications, solving problems, and learning new technologies.
+
+---
+
+## 🚀 About Me
+- 👀 I’m interested in **Mobile & Web Development**
+- 🌱 I’m currently learning **Flutter, Dart, and Laravel**
+- 💞️ I’m looking to collaborate on **innovative development projects**
+- 📫 How to reach me: **hanynady553@gmail.com**
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/hany-nady-582a84225/
+- 🌍 Portfolio Website: https://hany-hf-web.web.app/
+- 📄 My CV:  
+  [Download CV](https://github.com/user-attachments/files/16749947/hanynady-cv_2023.pdf)
+
+---
+
+## 🛠️ Tech Stack
+
+**Mobile Development**
+- Flutter
+- Dart
+
+**Backend Development**
+- Laravel
+- PHP
+
+**Other Tools**
+- Firebase
+- Git & GitHub
+- REST APIs
+
+---
+
+## 📊 GitHub Stats
+
+![Hany's GitHub stats](https://github-readme-stats.vercel.app/api?username=enghany301096&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enghany301096&layout=compact&theme=tokyonight)
+
+---
+
+## ⭐ Fun Fact
+I love building apps that help people and solve real-world problems.
+
+---
+
+⭐ **Feel free to explore my repositories and follow me!**
