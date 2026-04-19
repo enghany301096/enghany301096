@@ -24,6 +24,14 @@ I’m passionate about building modern applications, solving problems, and learn
 
 ---
 
+## 📊 GitHub Stats
+
+![Hany's GitHub stats](https://github-readme-stats.vercel.app/api?username=enghany301096&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enghany301096&layout=compact&theme=tokyonight)
+
+---
+
 ## 🛠️ Tech Stack
 
 **Mobile Development**
@@ -40,12 +48,6 @@ I’m passionate about building modern applications, solving problems, and learn
 - REST APIs
 
 ---
-
-## 📊 GitHub Stats
-
-![Hany's GitHub stats](https://github-readme-stats.vercel.app/api?username=enghany301096&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enghany301096&layout=compact&theme=tokyonight)
 
 ---
 
