@@ -58,8 +58,30 @@ Welcome to my GitHub space! I’m a passionate developer focused on building sea
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enghany301096&show_icons=true&theme=tokyonight&count_private=true" alt="Hany's GitHub stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enghany301096&layout=compact&theme=tokyonight" alt="Top Langs" height="180px" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=enghany301096&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"
+    alt="Hany's GitHub Statistics"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=enghany301096&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
+    alt="Most Used Programming Languages"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=enghany301096&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=enghany301096&theme=tokyo-night&hide_border=true"
+    alt="GitHub Contribution Activity Graph"
+  />
 </p>
 
 ---
